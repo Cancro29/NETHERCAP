@@ -1,16 +1,16 @@
 # NETHERCAP
-A Wi-Fi penetration and social engineering testing tool for ESP8266 and ESP-32 
+A Wi-Fi penetration and social engineering testing tool for ESP8266 and ESP-32.
 
 ## About this Project
 This firmware is a heavily-modified version of M1z23R's ESP8266-EvilTwin v2.
 It supports both ESP8266 and ESP-32. For now, this firmware only supports Indonesian Language.
-I will add more languages if requested
+I will add more languages if requested.
 
 ## Password
-The default password for "NETHERCAP" is "deauther"
+The default password for "NETHERCAP" is "deauther".
 
 ## Features
-- Evil-Twin : Customizable HTML page and custom fake "loading/reconnecting" page.
+- Evil-Twin : Customizable HTML page with custom fake "loading/reconnecting" page.
 - Deauth All : Deauth all targets in range. Target gets refreshed every 60 seconds.
 - Multi-target deauth : Choose more than one target to deauth.
 - Rogue AP  : Create fake login page that asks for user's credential.
