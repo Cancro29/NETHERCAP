@@ -14,6 +14,7 @@ The default password for "NETHERCAP" is "deauther".
 - Deauth All : Deauth all targets in range. Target gets refreshed every 60 seconds.
 - Multi-target deauth : Choose more than one target to deauth.
 - Rogue AP  : Create fake login page that asks for user's credential.
+- Auto-resume : Continue operation even after the module get restarted unintentionally.
 - Monitor Page : Monitor and record status and events.
 - Logger  : Record the events that happened during usage.
 - Customizable : Modify some settings and the settings will stay persistent.
