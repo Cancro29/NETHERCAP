@@ -1,5 +1,5 @@
 # NETHERCAP
-A Wi-Fi penetration and social engineering tool for ESP8266 and ESP-32.
+A Wi-Fi penetration and social engineering tool for ESP8266 and ESP-32.Contact at nethercap.dev@gmail.com
 
 ## About this Project
 This firmware is a heavily-modified version of M1z23R's ESP8266-EvilTwin v2.
