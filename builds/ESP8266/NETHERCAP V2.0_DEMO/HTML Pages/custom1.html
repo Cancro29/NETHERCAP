@@ -1,0 +1,81 @@
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>Login Page</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="/screen.css">
+</head>
+<body style="background: -webkit-linear-gradient(bottom, #2dbd6e, #a6f77b);
+  background-repeat: no-repeat;">
+  <div id="card" style="background: #fbfbfb;
+  border-radius: 8px;
+  box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.65);
+  height: 410px;
+  margin: 6rem auto 8.1rem auto;
+  width: 329px;">
+    <div id="card-content" style="padding: 12px 44px;">
+      <div id="card-title" style='font-family: "Raleway Thin", sans-serif;
+  letter-spacing: 4px;
+  padding-bottom: 23px;
+  padding-top: 13px;
+  text-align: center;'>
+        <div id="SSID"></div>
+        <div class="underline-title" style="background: -webkit-linear-gradient(right, #a6f77b, #2ec06f);
+  height: 2px;
+  margin: -1.1rem auto 0 auto;
+  width: 89px;"></div>
+      </div>
+      <form method="post" action="/authentication" class="form" style="align-items: left;
+  display: flex;
+  flex-direction: column;"><input type="hidden" id="isURL" name="url" value="">
+        <label for="user-email" style='padding-top:13px;font-family:"Raleway", sans-serif;font-size:11pt;'>
+            &nbsp;Email
+          </label>
+        <input id="user-email" class="form-content" type="email" name="user" autocomplete="on" required style="background: #fbfbfb;
+  border: none;
+  outline: none;
+  padding-top: 14px;"><div class="form-border" style="background: -webkit-linear-gradient(right, #a6f77b, #2ec06f);
+  height: 1px;
+  width: 100%;"></div>
+        <label for="user-password" style='padding-top:22px;font-family:"Raleway", sans-serif;font-size:11pt;'>&nbsp;Password
+          </label>
+        <input id="user-password" class="form-content" type="password" name="password" required style="background: #fbfbfb;
+  border: none;
+  outline: none;
+  padding-top: 14px;"><div class="form-border" style="background: -webkit-linear-gradient(right, #a6f77b, #2ec06f);
+  height: 1px;
+  width: 100%;"></div>
+        <a href="#" style="text-decoration: none;">
+          <legend id="forgot-pass" style='color: #2dbd6e;
+  font-family: "Raleway", sans-serif;
+  font-size: 10pt;
+  margin-top: 3px;
+  text-align: right;'>Forgot password?</legend>
+        </a>
+        <input id="submit-btn" type="submit" name="submit" value="LOGIN" style='background: -webkit-linear-gradient(right, #a6f77b, #2dbd6e);
+  border: none;
+  border-radius: 21px;
+  box-shadow: 0px 1px 8px #24c64f;
+  cursor: pointer;
+  color: white;
+  font-family: "Raleway SemiBold", sans-serif;
+  height: 42.3px;
+  margin: 0 auto;
+  margin-top: 50px;
+  transition: 0.25s;
+  width: 153px;'><a href="#" id="signup" style='text-decoration:none;color:#2dbd6e;font-family:"Raleway", sans-serif;font-size:10pt;margin-top:16px;text-align:center;'>Don't have account yet?</a>
+      </form>
+    </div>
+  </div>
+	<script src="/script.js"></script>
+	<script>
+	 fetch("config.json")
+	    .then(response => response.json())
+	    .then(data => {
+	        console.log(data.CurrentTarget)
+	        document.getElementById('SSID').innerHTML = data.CurrentTarget
+	    })
+	</script>
+</body>
+</html>
