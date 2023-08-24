@@ -10,6 +10,7 @@ I will add more languages if requested.
 The default password for "NETHERCAP" is "deauther".
 
 ## Features
+* Some features are missing from ESP-32 because it still in development
 - Evil-Twin : Customizable HTML page with a custom fake "loading/reconnecting" page.
 - Deauth All : Deauth all targets in range. Target get refreshed every 60 seconds.
 - Multi-target deauth : Choose more than one target to deauth.
