@@ -1,0 +1,12 @@
+- Added notification system to make less confusion for new users.
+- Greatly improved stability by dynamically adjusting deauth frequency.
+- Fixed hanging/freezing and self disconnect from AP.
+- Extended trial duration to 30 minutes.
+- Renamed "Sniff Stations" to "Count Stations".
+- Optimized File Manager and updater.
+- Added setting to turn internal LED on/off.
+- Now showing a preview of HTML page while assigning to HTML slot.
+- Now perform deep sleep if idle for 2 hours to prevent battery drain.
+- (OLED) Now showing how much the time left for trial usage. If you have the full version, it will show signal bar instead.
+- (OLED) Now showing number of deauth packets sent during attack.
+
