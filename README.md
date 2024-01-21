@@ -31,7 +31,3 @@ The default password for "NETHERCAP" is "deauther".
 - Flash the .bin file using your favorite flasher.For ESP-32 build, please read readme first. 
 - Connect to "NETHERCAP" Access Point.
 - Wait for captive portal to appear or access 192.168.4.1 on your browser.
-
-## Note
-All features can be accessed by buying the full version, but you can try the demo version.
-Otherwise, you can enjoy basic features for free.
