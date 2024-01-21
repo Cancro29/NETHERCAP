@@ -1,6 +1,9 @@
 # NETHERCAP
 A Wi-Fi penetration and social engineering tool for ESP8266 and ESP-32.Contact at nethercap.dev@gmail.com
 
+## 21-01-2024 Announcement
+NETHERCAP for ESP8266 is now free to use.
+
 ## About this Project
 This firmware is a heavily-modified version of M1z23R's ESP8266-EvilTwin v2.
 It supports both ESP8266 and ESP-32. For now, this firmware only supports Indonesian Language.
