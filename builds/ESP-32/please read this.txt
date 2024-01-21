@@ -1,2 +1,0 @@
--- The ESP32 build is compiled for ESP32-DEV Kit with 4 MB of SPI Flash. The firmware is a full backup of the SPI flash so you can just flash the firmware without bootloader and partition scheme.
--- As for M5StickC Plus, it is a Arduino's compiled binary and DOES NOT include bootloader and partition scheme. You have to use another firmware's OTA updater feature to install it.
