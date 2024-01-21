@@ -1,4 +1,0 @@
-- Updated File Manager : Files with name longer than 25 characters will be automatically trimmed
-- Deauth Monitor : Detects deauth by turning on LED if deauth gets detected
-- Hide SSID  : Hide Access Point to lower the chance it gets detected. You need to restart the ESP8266 to show it again
-- Default Captive  : Added default captive portal for Evil-Twin. Source : https://github.com/adamff1/ESP8266-Captive-Portal
