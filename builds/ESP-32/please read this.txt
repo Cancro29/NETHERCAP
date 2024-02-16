@@ -1,7 +1,7 @@
 How to install on ESP-32 Dev Kit: 
 
-1. Download NETHERCAP V0.5 FullFlash and flash it using ESP-32 Download Tool
-2. Set the flash setting. See howtoinstall.png
+1. Download NETHERCAP V0.5 FullFlash. 
+2. Open ESP-32 Flash Tool, set the flash setting. See howtoinstall.png
 3. Set the Port number and baud rate
 4. Press start
 
