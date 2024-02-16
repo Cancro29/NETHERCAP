@@ -11,3 +11,8 @@ using this method:
 2. Go to 192.168.4.1/fsbrowser using browser
 3. Upload the file and select it
 4. Press "Flash"
+
+How to install on M5StickCPlus:
+1. Download and install any firmware that supports OTA update. 
+2. Download NETHERCAP for M5StickCPlus.
+3. Go to OTA update and flash the firmware
