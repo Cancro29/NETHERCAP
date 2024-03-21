@@ -6,7 +6,7 @@ NETHERCAP for ESP8266 is now free to use. Go to https://github.com/Cancro29/NETH
 
 ## About this Project
 This firmware is a heavily-modified version of M1z23R's ESP8266-EvilTwin v2.
-It supports both ESP8266 and ESP-32. For now, ESP8266 build only supports Indonesian Language.
+It supports both ESP8266 and ESP-32. For now, ESP8266 build supports English and Indonesian Language.
 I will add more languages if requested.
 
 ## Password
