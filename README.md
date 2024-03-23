@@ -2,7 +2,8 @@
 A Wi-Fi penetration and social engineering tool for ESP8266 and ESP-32.Contact at nethercap.dev@gmail.com
 
 ## 21-01-2024 Announcement
-NETHERCAP for ESP8266 is now free to use. Go to https://github.com/Cancro29/NETHERCAP/releases/tag/ESP8266 to download
+NETHERCAP for ESP8266 is now free to use. Go to https://github.com/Cancro29/NETHERCAP/releases/tag/ESP8266 to download. 
+For ESP32 build, go to https://github.com/Cancro29/NETHERCAP/releases/tag/ESP-32
 
 ## About this Project
 This firmware is a heavily-modified version of M1z23R's ESP8266-EvilTwin v2.
