@@ -1,18 +1,1 @@
-How to install on ESP-32 Dev Kit: 
-
-1. Download NETHERCAP V0.5 FullFlash. 
-2. Open ESP-32 Flash Tool, set the flash setting. See howtoinstall.png
-3. Set the Port number and baud rate
-4. Press start
-
-If you have installed NETHERCAP V0.5, you can flash/update NETHERCAP V0.6
-using this method: 
-1. Connect to NETHERCAP
-2. Go to 192.168.4.1/fsbrowser using browser
-3. Upload the file and select it
-4. Press "Flash"
-
-How to install on M5StickCPlus:
-1. Download and install any firmware that supports OTA update. 
-2. Download NETHERCAP for M5StickCPlus.
-3. Go to OTA update and flash the firmware
+The content of this directory has been moved to https://github.com/Cancro29/NETHERCAP/releases/tag/ESP-32
