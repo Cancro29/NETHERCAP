@@ -31,6 +31,6 @@ The default password for "NETHERCAP" is "deauther".
 - OLED support : Display status. Currently only capable of showing in 64x48 resolution.
 
 ## How to use
-- Flash the .bin file using your favorite flasher.For ESP-32 build, please read readme first. 
+- Flash the .bin file using your favorite flasher.For ESP-32 build, please read readme the instructions first. 
 - Connect to "NETHERCAP" Access Point.
 - Wait for captive portal to appear or access 192.168.4.1 on your browser.
