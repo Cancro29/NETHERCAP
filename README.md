@@ -3,7 +3,7 @@ A Wi-Fi penetration and social engineering tool for ESP8266 and ESP-32.Contact a
 
 # Download
 ## ESP8266
-https://github.com/Cancro29/NETHERCAP/releases/tag/ESP8266
+https://github.com/Cancro29/NETHERCAP/releases/tag/V2.5-esp8266
 ## ESP-32
 https://github.com/Cancro29/NETHERCAP/releases/tag/ESP-32
 
