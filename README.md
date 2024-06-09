@@ -8,9 +8,8 @@ https://github.com/Cancro29/NETHERCAP/releases/tag/V.2.5.10-esp8266
 https://github.com/Cancro29/NETHERCAP/releases/tag/ESP-32
 
 ## About this Project
-This firmware is a heavily-modified version of M1z23R's ESP8266-EvilTwin v2.
-It supports both ESP8266 and ESP-32. For now, it supports English and Indonesian Language.
-I will add more languages if requested.
+This firmware is a heavily-modified version of M1z23R's ESP8266-EvilTwin v2 with Spacehuhn's Deauther CSS.
+It supports both ESP8266 and ESP-32. For now, it supports English,Indonesian, and custom language.
 
 ## Password
 The default password for "NETHERCAP" is "deauther".
