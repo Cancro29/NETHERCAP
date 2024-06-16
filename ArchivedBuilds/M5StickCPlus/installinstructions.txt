@@ -1,1 +1,11 @@
+REQUIREMENTS :
+1. Python 3.9
+2. Python esptool dependency. Type "pip install esptool" in command prompt to install
 
+FLASHING :
+1. Open NETHERCAP Flasher_GPT.exe. If it detected as a virus, ignore it.
+2. Select WRITE/FLASH
+3. Select your COM Port.
+4. Select 115200 as Baud Rate (you must choose this)
+5. Select ALPHA_NETHERCAP_V0.6_M5STICKCPLUS_FullFlash.bin
+6. Wait until it finish flashing and restart your M5StickC Plus by holding power button.
