@@ -1,5 +1,6 @@
 # NETHERCAP
 A Wi-Fi penetration and social engineering tool for ESP8266 and ESP-32.Contact at nethercap.dev@gmail.com
+Like this project? Consider giving a star to this repo, I will appreciate that
 
 # Download
 ## ESP8266
