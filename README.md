@@ -2,7 +2,7 @@
 A full-featured Wi-Fi penetration and social engineering tool for ESP8266 and ESP-32.Contact at nethercap.dev@gmail.com
 
 Like this project? Consider giving a star to this repo, I will appreciate that.
-# UPDATE
+# 5 GHz Deauther Update
 5 GHz deauther is currently in development. Stay tuned!
 # Download
 ## ESP8266
