@@ -3,7 +3,7 @@ A full-featured Wi-Fi penetration and social engineering tool for ESP8266 and ES
 
 Like this project? Consider giving a star to this repo, I will appreciate that.
 # 5 GHz Deauther Update
-5 GHz deauther is currently in development. Stay tuned!
+5 GHz deauther for BW16 RTL8720dn is currently in development. Stay tuned!
 Proof : https://github.com/Cancro29/NETHERCAP/blob/main/images/IMG_20240721_065236.jpg
 # Download
 ## ESP8266
