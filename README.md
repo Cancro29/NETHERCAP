@@ -5,6 +5,8 @@ Like this project? Consider giving a star to this repo, I will appreciate that.
 # 5 GHz Deauther
 5 GHz deauther for BW16 RTL8720dn is currently in development. Stay tuned!
 Proof : https://github.com/Cancro29/NETHERCAP/blob/main/images/IMG_20240721_065236.jpg
+# Help Needed!
+Need someone who can find a way to flash BW16 RTL8720dn board. If you know how to do it, please contact me via email.
 # Download
 ## ESP8266
 https://github.com/Cancro29/NETHERCAP/releases/tag/V.2.6-esp8266
