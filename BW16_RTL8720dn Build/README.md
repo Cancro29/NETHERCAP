@@ -11,12 +11,13 @@ To make 5 GHz deauther working on NETHERCAP 2.7, you need :
 9. Breadboard (optional)
 
 ## Before Starting
-In general, there are X steps to flash BW16 RTL8720dn board:
+In general, there are 4 steps to flash BW16 RTL8720dn board:
 1. Connect BW16 to USB to TTL
 2. Erase OTA firmware from BW16
 3. Flash NETHERCAP Lite
 4. Connect RX and TX wire to both BW16 and Wemos D1 Mini
 
+Please read carefully before proceeding
 # 1. Connect BW16 to USB to TTL
 BW16   -> USB Serial Adapter
 LOG_RX -> TX
