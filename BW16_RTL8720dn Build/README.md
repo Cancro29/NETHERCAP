@@ -20,11 +20,11 @@ In general, there are 4 steps to flash BW16 RTL8720dn board:
 
 Please read carefully before proceeding. I don't answer obvious questions. This tutorial is all I know and I can't answer questions beyond that.
 # 1. Connect BW16 to USB to TTL
-BW16   -> USB Serial Adapter
-LOG_RX -> TX
-LOG_TX -> RX
-3V3    -> 3V3
-GND    -> GND
+BW16   -> USB Serial Adapter <br>
+LOG_RX -> TX <br>
+LOG_TX -> RX <br>
+3V3    -> 3V3 <br>
+GND    -> GND <br>
 
 After that. Trigger BW16 to enter download mode by doing this :
 1. Connect LOG_TX to GND
