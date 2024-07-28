@@ -18,7 +18,7 @@ In general, there are 4 steps to flash BW16 RTL8720dn board:
 3. Flash NETHERCAP Lite
 4. Connect RX and TX wire to both BW16 and Wemos D1 Mini
 
-Please read carefully before proceeding. I don't answer obvious questions. This tutorial is all I know and I can't answer questions beyond that.
+Please read carefully before proceeding. I won't answer obvious questions. This tutorial is all I know and I can't answer questions beyond that.
 # 1. Connect BW16 to USB to TTL
 BW16   -> USB Serial Adapter <br>
 LOG_RX -> TX <br>
