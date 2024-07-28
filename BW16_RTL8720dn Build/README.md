@@ -63,11 +63,11 @@ If flashing is successfull, the flash log should looked like this :
 9. To double check, open Arduino Serial monitor and do step #7 again, a series of debug message should appear
 
 # 4. Connect RX and TX wire to both BW16 and Wemos D1 Mini
-BW16   -> Wemos D1 Mini
-PB2    -> TX
-PB1    -> RX
-3V3    -> 3V3
-GND    -> GND
+BW16   -> Wemos D1 Mini \n
+PB2    -> TX \n
+PB1    -> RX \n
+3V3    -> 3V3 \n
+GND    -> GND \n
 
 *note  : I haven't tried powering BW16 by attaching 3V3 and GND to Wemos D1 Mini. Try using USB to TTL's 3V3 and GND first
 
