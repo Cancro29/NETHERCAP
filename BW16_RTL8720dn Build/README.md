@@ -1,7 +1,8 @@
 ## How to Activate 5 GHz Support on NETHERCAP 2.7
 To make 5 GHz deauther working on NETHERCAP 2.7, you need :
 1. Wemos D1 Mini with NETHERCAP 2.7 installed.
-2. BW16 RTL8720dn board which looked like this : %BW16%
+2. BW16 RTL8720dn board which looked like this :
+![Scheme](images/BW16_Pinout.png)
 3. USB to TTL adapter
 4. Arduino IDE version 1.8.XX with Realtek Ameba Boards (32-bits ARM Cortex-M33@200MHz) version 3.1.4 installed.
 5. Amebad ImageTool v2.3.2
