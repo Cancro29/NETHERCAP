@@ -75,4 +75,4 @@ GND    -> GND <br>
 2. Open NETHERCAP SoftAP that comes from Wemos D1 Mini. Do not connect to "NETHERCAP_5GHZ"
 3. A secondary table that contains 5 GHz networks should appear on target list.
 ![Scheme](images/esp8266_5ghz.jpg)
-%IMG_esp8266_5ghz%
+
