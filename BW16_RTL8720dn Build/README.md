@@ -34,11 +34,11 @@ After that. Trigger BW16 to enter download mode by doing this :
 
 # 2. Erase OTA firmware from BW16
 1. Open Arduino IDE, click on "Tools" and set "Erase Flash" to "Enable"
-%IMG_BW16_setErase%
+![Scheme](images/BW16_setErase.png)
 2. Click "Upload" button. It is okay to upload empty sketch.
-%IMG_BW16_erase%
+![Scheme](images/BW16_erase.png)
 3. If it erased successfully. Arduino log should looked like this:
-%IMG_BW16_eraseSuccess%
+![Scheme](images/BW16_eraseSuccess.png)
 
 4. Open Arduino Serial monitor
 5. Reset the board by touching EN pin to GND pin and then disconnect it.
@@ -47,7 +47,7 @@ After that. Trigger BW16 to enter download mode by doing this :
 
 # 3. Flash NETHERCAP Lite
 First, download NETHERCAP Lite here : %LINK%
-%IMG_BW16_ImageTool%
+![Scheme](images/BW16_ImageTool.png)
 1. Open Amebad ImageTool v2.3.2, click "CHIP SELECT" on top left corner, then click "AmebaD(8721D)"
 2. Choose the COM port to USB to TTL you are using.
 3. Make sure the baud rate is 1500000
@@ -56,7 +56,7 @@ First, download NETHERCAP Lite here : %LINK%
 6. Click "Download"
 
 If flashing is successfull, the flash log should looked like this : 
-%IMG_BW16_flash_success%
+![Scheme](images/BW16_flash_success.png)
 
 7. Reset the board by touching EN pin to GND pin and disconnect it.
 8. An AP named "NETHERCAP_5GHZ" should appear
@@ -74,4 +74,5 @@ GND    -> GND
 1. Power on both board and wait for 20 seconds
 2. Open NETHERCAP SoftAP that comes from Wemos D1 Mini. Do not connect to "NETHERCAP_5GHZ"
 3. A secondary table that contains 5 GHz networks should appear on target list.
+![Scheme](images/esp8266_5ghz.jpg)
 %IMG_esp8266_5ghz%
