@@ -75,5 +75,5 @@ GND    -> GND <br>
 2. Open NETHERCAP SoftAP that comes from Wemos D1 Mini. Do not connect to "NETHERCAP_5GHZ"
 3. A secondary table that contains 5 GHz networks should appear on target list.
 ![Scheme](images/esp8266_5ghz.jpg)
-4. If the secondary table does not showing. Tap "SCAN" and wait for 20 seconds, then refresh admin page. Make sure there is at least one 5GHz router nearby.
+4. If the secondary table does not appear, tap "SCAN" and wait for 20 seconds, then refresh admin page. Make sure there is at least one 5GHz router nearby.
 
