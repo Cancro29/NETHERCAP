@@ -1,5 +1,5 @@
 ## How to Activate 5 GHz Support on NETHERCAP 2.7
-First of all, thank you to tesa-kelebeband for reverse-engineering RTL8720dn core library to enable sending raw packets. You can find it here : https://github.com/tesa-klebeband/RTL8720dn-WiFi-Packet-Injection
+First of all, I would like to thank tesa-kelebeband for reverse-engineering RTL8720dn core library to enable sending raw packets. You can find it here : https://github.com/tesa-klebeband/RTL8720dn-WiFi-Packet-Injection
 
 To make 5 GHz deauther working on NETHERCAP 2.7, you need :
 1. Wemos D1 Mini with NETHERCAP 2.7 installed.
