@@ -4,8 +4,13 @@ A full-featured Wi-Fi penetration and social engineering tool for ESP8266 and ES
 Like this project? Consider giving a star to this repo, I will appreciate that.
 # 5 GHz Deauther
 5 GHz deauther for BW16 RTL8720dn is currently in development. Stay tuned!
-Proof : https://github.com/Cancro29/NETHERCAP/blob/main/images/IMG_20240721_065236.jpg
-It can be connected to ESP8266 with NETHERCAP V2.7 or above.
+Proof : https://github.com/Cancro29/NETHERCAP/blob/main/images/IMG_20240721_065236.jpg <br>
+It can be connected to ESP8266 on NETHERCAP V2.7 or above.
+
+
+https://github.com/user-attachments/assets/cea18553-0585-453c-aa86-0f55f40a474d
+
+
 
 # Help Needed!
 Need someone who can find a way to flash compiled firmware into BW16 RTL8720dn board. If you know how to do it, please contact me via email.
