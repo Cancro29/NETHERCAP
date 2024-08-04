@@ -2,6 +2,11 @@
 A full-featured Wi-Fi penetration and social engineering tool for ESP8266 and ESP-32.Contact at nethercap.dev@gmail.com
 
 Like this project? Consider giving a star to this repo, I will appreciate that.
+# Untuk Pengguna di Negara Indonesia
+Mohon untuk tidak membeli produk NETHERCAP dari toko daring di bawah ini, karena mereka melakukan tindakan kurang etis terhadap konsumen/pengembang
+Jika bisa, berikan rating paling rendah pada produk terkait. Apabila sudah terlanjur memberikan rating, laporkan toko/produk tersebut dengan alasan "Menjual produk dilarang lainnya"
+![Scheme](images/shopee1.PNG)
+
 # 5 GHz Deauther
 5 GHz deauther for BW16 RTL8720dn is currently in development. Stay tuned!
 Proof : https://github.com/Cancro29/NETHERCAP/blob/main/images/IMG_20240721_065236.jpg <br><br>
