@@ -1,5 +1,8 @@
 # NETHERCAP
-A full-featured Wi-Fi penetration and social engineering tool for ESP8266 and ESP-32.Contact at nethercap.dev@gmail.com <br>or join Telegram Group at <br>https://t.me/+CciATlD2mZdkZTNl
+A full-featured Wi-Fi penetration and social engineering tool for ESP8266 and ESP-32.Contact at nethercap.dev@gmail.com <br>
+![Scheme](images/icon_telegram.jpg)<br>
+or join Telegram Group at <br>
+https://t.me/+CciATlD2mZdkZTNl
 
 Like this project? Consider giving a star to this repo, I will appreciate that.
 # Untuk Pengguna di Negara Indonesia
