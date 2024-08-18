@@ -13,7 +13,6 @@ Mohon untuk tidak membeli produk NETHERCAP dari toko daring di bawah ini, karena
 Jika bisa, berikan rating paling rendah pada produk terkait. Apabila sudah terlanjur memberikan rating, laporkan toko/produk tersebut dengan alasan "Menjual produk dilarang lainnya"
 ![Scheme](images/shopee1.PNG)<br>
 <br>
-Saya akan dengan senang hati membantu orang-orang yg mau menggunakan software ini tanpa biaya apapun. Silahkan join grup Telegram pada link di atas.
 
 JANGAN MEMBELI PRODUK DARI ORANG INI!
 Orang ini memodifikasi firmware NETHERCAP dan berpotensi memasukkan BACKDOOR dan MALWARE ke dalamnya. Download NETHERCAP hanya dari halaman ini
