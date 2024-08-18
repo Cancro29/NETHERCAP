@@ -14,6 +14,10 @@ Jika bisa, berikan rating paling rendah pada produk terkait. Apabila sudah terla
 ![Scheme](images/shopee1.PNG)<br>
 <br>
 Saya akan dengan senang hati membantu orang-orang yg mau menggunakan software ini tanpa biaya apapun. Silahkan join grup Telegram pada link di atas.
+
+JANGAN MEMBELI PRODUK DARI ORANG INI!
+Orang ini memodifikasi firmware NETHERCAP dan berpotensi memasukkan BACKDOOR dan MALWARE ke dalamnya. Download NETHERCAP hanya dari halaman ini
+![Scheme](images/sellermaling.jpg)<br>
 # 5 GHz Deauther
 5 GHz deauther for BW16 RTL8720dn is currently in development. Stay tuned!
 Proof : https://github.com/Cancro29/NETHERCAP/blob/main/images/IMG_20240721_065236.jpg <br><br>
