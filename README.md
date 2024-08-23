@@ -9,7 +9,7 @@ https://t.me/+CciATlD2mZdkZTNl
 
 Like this project? Consider giving a star to this repo, I will appreciate that.
 # Untuk Pengguna di Negara Indonesia
-Mohon untuk tidak membeli produk NETHERCAP dari toko daring di bawah ini, karena mereka melakukan tindakan kurang etis terhadap pembeli dan developer.<br>
+Mohon untuk tidak membeli produk NETHERCAP dari toko daring di bawah ini, karena orang ini melakukan tindakan kurang etis terhadap pembeli dan developer.<br>
 Jika bisa, berikan rating paling rendah pada produk terkait. Apabila sudah terlanjur memberikan rating, laporkan toko/produk tersebut dengan alasan "Menjual produk dilarang lainnya"
 ![Scheme](images/shopee1.PNG)<br>
 ![Scheme](images/tokped1.PNG)<br>
