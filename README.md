@@ -20,7 +20,7 @@ Jika bisa, berikan rating paling rendah pada produk terkait. Apabila sudah terla
 Proof : https://github.com/Cancro29/NETHERCAP/blob/main/images/IMG_20240721_065236.jpg <br><br>
 # Download
 ## ESP8266
-https://github.com/Cancro29/NETHERCAP/releases/tag/V.2.6-esp8266
+https://github.com/Cancro29/NETHERCAP/releases/tag/V.2.7-esp8266
 ## ESP-32
 https://github.com/Cancro29/NETHERCAP/releases/tag/ESP-32
 
