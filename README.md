@@ -20,7 +20,7 @@ Jika bisa, berikan rating paling rendah pada produk terkait. Apabila sudah terla
 https://id.shp.ee/KkcH1Fu
 
 Screenshot:
-![Scheme](images/IMG-20240831-WA0006.jpg.PNG)<br>
+![Scheme](images/IMG-20240831-WA0006.jpg)<br>
 
 # Download
 ## ESP8266
