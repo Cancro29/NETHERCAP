@@ -24,7 +24,7 @@ Screenshot:
 
 # Download
 ## ESP8266
-https://github.com/Cancro29/NETHERCAP/releases/tag/V.2.7-esp8266
+https://github.com/Cancro29/NETHERCAP/releases/tag/V.2.7.2-esp8266
 ## ESP-32
 https://github.com/Cancro29/NETHERCAP/releases/tag/ESP-32
 
