@@ -36,20 +36,22 @@ It supports both ESP8266 and ESP-32. For now, it supports English,Indonesian, an
 The default password for "NETHERCAP" is "deauther".
 ## Pin and Control Scheme
 ![Scheme](images/NETHERCAP_quickguide.png)
-## Features (Some features are missing on ESP-32 build because it still in development)
+## Features
 - Evil-Twin : Customizable HTML page with a custom fake "loading/reconnecting" page.
 - Deauth All : Deauth all targets in range.
 - Multi-target deauth : Choose more than one target to deauth.
+- True Deauth : Constantly deauth nearby networks in real-time.
 - Rogue AP  : Create a fake login page that asks for user's credential.
 - Auto-resume : Continue operation even after the module gets restarted unintentionally.
 - Monitor Page : Monitor and record status and events.
-- Logger  : Record the events that happened during usage.
+- Logger  : Record events that happened during usage.
 - Customizable : Set your own settings and it will stay persistent.
-- Sniffing : Count how many users connected to an AP.
+- Sniffing : Count how many users connected to an AP and how much network activities they performed.
 - Extender : Connect an AP and then extend it using different AP name.
 - File Manager : Upload, choose custom HTML page, or flash firmware in one menu.
 - HTML Menu : Choose a custom HTML. You will get the preview so you can see what the target will see.
-- OLED support : Display status. Currently only capable of showing in 64x48 resolution.
+- Local Remote. Control another NETHERCAP device to make them work together.
+- OLED support : Display real-time status. Support SSD1306 and SH1106.
 
 ## How to use
 - Flash the .bin file using your favorite flasher.For ESP-32 build, please read the instructions first. 
