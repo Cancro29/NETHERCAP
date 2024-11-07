@@ -17,11 +17,8 @@ Jika bisa, berikan rating paling rendah pada produk terkait. Apabila sudah terla
 <br>
 
 # 5 GHz Deauther
-5 GHz deauther for BW16 RTL8720dn is available with limited stock:
-https://id.shp.ee/KkcH1Fu
-
-Screenshot:
-![Scheme](images/IMG-20240831-WA0006.jpg)<br>
+5 GHz deauther for BW16 RTL8720dn is available now :
+https://github.com/Cancro29/NETHERCAP/releases/tag/V.0.6.4-bw16
 
 # Download
 ## ESP8266
