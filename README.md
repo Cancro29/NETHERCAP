@@ -13,6 +13,7 @@ Mohon untuk tidak membeli produk NETHERCAP dari toko daring di bawah ini, karena
 Jika bisa, berikan rating paling rendah pada produk terkait. Apabila sudah terlanjur memberikan rating, laporkan toko/produk tersebut dengan alasan "Menjual produk dilarang lainnya"
 ![Scheme](images/shopee1.PNG)<br>
 ![Scheme](images/tokped1.PNG)<br>
+![Scheme](images/tiktok1.jpg)<br>
 <br>
 
 # 5 GHz Deauther
