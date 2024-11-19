@@ -1,5 +1,6 @@
 # NETHERCAP
-A full-featured Wi-Fi penetration and social engineering tool for ESP8266 and ESP-32.Contact at nethercap.dev@gmail.com <br>
+A full-featured Wi-Fi penetration and social engineering tool for ESP8266, ESP-32 and BW16 (RTL8720dn). Go to release page for downloads<br>
+https://github.com/Cancro29/NETHERCAP/releases
 <a href=https://t.me/+CciATlD2mZdkZTNl>
     <img src="images/icon_telegram.jpg" alt="Scheme" width="200"/>
 </a>
