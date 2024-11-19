@@ -14,7 +14,7 @@ Like this project? Consider giving a star to this repo, I will appreciate that.
 Mohon untuk tidak membeli produk NETHERCAP dari toko daring di bawah ini, karena orang ini melakukan tindakan kurang etis terhadap pembeli berupa pemaksaan rating bintang 5 dan ke developer berupa penghinaan.<br>
 Jika bisa, berikan rating paling rendah pada produk terkait. Apabila sudah terlanjur memberikan rating, perbarui rating dengan review jujur. Jangan takut jika diancam akan dimatikan secara remote atau ancaman lainnya, semua itu bisa diatasi cukup dengan melakukan flashing menggunakan file yang ada di Github ini.<br>
 ### Kepada : Admin Produsen Resmi,
-### Teruslah ganti-ganti identitas tokomu, orang-orang bakal tau kebusukan dirimu dan betapa red flag-nya tokomu itu. <br>Terkait iri atau tidak, saya heran mengapa Anda berpikir bahwa saya iri. Saya sendiri yang menggratiskan NETHERCAP versi ESP8266, dan saya bisa membuat firmware yang lebih baik darimu karena saya memang bisa melakukan programming, tidak seperti dirimu yang sebatas nyomot dan timpa teks saja. 
+### Teruslah ganti-ganti identitas tokomu, orang-orang bakal tau kebusukan dirimu dan betapa red flag-nya tokomu itu. <br>Terkait iri atau tidak, saya heran mengapa Anda berpikir bahwa saya iri. Padahal saya sendiri yang menggratiskan NETHERCAP versi ESP8266, saya yang mengajari cara menggunakannya tanpa dipungut biaya apapun. Lagipula, saya bisa membuat firmware yang lebih baik darimu karena saya memang bisa melakukan programming, tidak seperti dirimu yang sebatas nyomot dan timpa teks dari project yang sudah ada.
 ![Scheme](images/shopee2.PNG)<br>
 ![Scheme](images/tokped1.PNG)<br>
 ![Scheme](images/tiktok1.jpg)<br>
