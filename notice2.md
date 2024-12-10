@@ -1,7 +1,7 @@
 # 1. Sombong
 ## Seller ini terkenal sombong. Dia tidak mempedulikan pembeli yang sudah menyelesaikan pembelian. Tidak ada support, tidak ada penjelasan, cuma selebaran/video sederhana.
 ![Scheme](images/shopee3.jpg)<br>
-## Selain itu, dia juga sudah menjelek-jelekkan saya
+## Selain itu, dia juga sudah menjelek-jelekkan project saya, padahal dia juga yg jualin project saya.
 ![Scheme](images/2_2.jpg)<br>
 
 ### Dia bilang seperti itu karena saya tidak membagikan deauther 5 Ghz ke publik secara gratis.
@@ -9,6 +9,8 @@
 ### Kenapa saya yakin? Karena NETHERCAP ESP32 yang masih Alpha (baca: cacat/belum sempurna) aja dia jualin
 ![Scheme](images/2_3.jpg)<br>
 
+## Tambahan
+![Scheme](images/2_1.jpg)<br>
 ### Code yang ada di project saya ngga modal copas doang, saya juga optimalisasi kodenya, baik dari segi frontend maupun backend.
 
 # 2. Ngaku Produsen, tapi barang yang dia jualin hasil comotan semua
