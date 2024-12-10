@@ -20,6 +20,6 @@
 ![Scheme](images/3_2.jpg)<br>
 ## Bahkan project punya orang luar pun dia colong
 ![Scheme](images/3_3.jpg)<br>
-### Dari sini bisa disimpulkan bahwa dia itu tidak bisa ngoding, hanya sebatas edit teks saja.
+### Dari sini bisa disimpulkan bahwa dia itu tidak bisa ngoding, hanya sebatas edit teks saja (script kiddie).
 ### Jadi jangan heran kalau fitur-fitur yang dia sebut di produknya itu kebanyakan gimmick atau bahkan bohongan.
 ### ESP8266 dan ESP32 bukan perangkat yang didesain untuk melakukan peretasan. Tidak ada jaminan project semacam ini work 100%.
