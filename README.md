@@ -11,7 +11,7 @@ https://t.me/+CciATlD2mZdkZTNl
 
 Like this project? Consider giving a star to this repo, I will appreciate that.
 # Untuk Pengguna di Negara Indonesia
-Mohon untuk tidak membeli produk NETHERCAP dari toko daring di bawah ini, karena orang ini melakukan tindakan kurang etis terhadap pembeli berupa pemaksaan rating bintang 5 dan ke developer berupa penghinaan.<br>
+Jangan membeli produk NETHERCAP dari toko daring di bawah ini, karena orang ini melakukan tindakan kurang etis terhadap pembeli berupa pemaksaan rating bintang 5 dan ke developer berupa penghinaan.<br>
 Jika bisa, berikan rating paling rendah pada produk terkait. Apabila sudah terlanjur memberikan rating, perbarui rating dengan review jujur. Jangan takut jika diancam akan dimatikan secara remote atau ancaman lainnya, semua itu bisa diatasi cukup dengan melakukan flashing menggunakan file yang ada di Github ini.<br>
 
 ## Alasan mengapa seller ini harus dihindari -> [Notice](notice2.md)
