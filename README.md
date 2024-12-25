@@ -37,7 +37,7 @@ It supports both ESP8266 and ESP-32. For now, it supports English,Indonesian, an
 ## Password
 The default password for "NETHERCAP" is "deauther".
 ## Pin and Control Scheme
-![Scheme](images/NETHERCAP_quickguide.png)
+![Scheme](images/Quickguide.jpg)
 ## Features
 - Evil-Twin : Customizable HTML page with a custom fake "loading/reconnecting" page.
 - Deauth All : Deauth all targets in range.
