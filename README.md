@@ -15,6 +15,7 @@ Jangan membeli produk NETHERCAP dari toko daring di bawah ini, karena orang ini 
 Jika bisa, berikan rating paling rendah pada produk terkait. Apabila sudah terlanjur memberikan rating, perbarui rating dengan review jujur. Jangan takut jika diancam akan dimatikan secara remote atau ancaman lainnya, semua itu bisa diatasi cukup dengan melakukan flashing menggunakan file yang ada di Github ini.<br>
 
 ## Alasan mengapa seller ini harus dihindari -> [Notice](notice2.md)
+![Scheme](images/shopee1.PNG)<br>
 ![Scheme](images/shopee2.PNG)<br>
 ![Scheme](images/tokped1.PNG)<br>
 ![Scheme](images/tiktok1.jpg)<br>
