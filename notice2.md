@@ -1,3 +1,5 @@
+## * FIRMWARE NETHERCAP TIDAK BISA DIMATIKAN DARI JARAK JAUH !. PERLU DIINGAT, DIA TIDAK TAHU CARA MEMBUAT PROGRAM, APALAGI MEMBUAT FITUR REMOTE JARAK JAUH.
+
 # 1. Sombong
 ## Seller ini terkenal sombong. Dia tidak mempedulikan pembeli yang sudah menyelesaikan pembelian. Tidak ada support, tidak ada penjelasan, cuma selebaran/video sederhana.
 ![Scheme](images/shopee3.jpg)<br>
