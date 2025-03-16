@@ -12,7 +12,7 @@ https://t.me/+CciATlD2mZdkZTNl
 Like this project? Consider giving a star to this repo, I will appreciate that.
 
 # 5 GHz Deauther
-5 GHz deauther for BW16 RTL8720dn is available now :
+5 GHz deauther for BW16 RTL8720dn is available, now suppports Evil-Twin!:
 https://github.com/Cancro29/NETHERCAP/releases/tag/V.1.4.0-bw16
 
 # Download
