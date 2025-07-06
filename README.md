@@ -29,6 +29,7 @@ It supports both ESP8266 and ESP-32. For now, it supports English,Indonesian, an
 The default password for "NETHERCAP" is "deauther".
 ## Pin and Control Scheme
 ![Scheme](images/Quickguide.jpg)
+![Scheme](images/Quickguide2.jpg)
 ## Features
 ![Scheme](images/features_table.jpg)
 .
