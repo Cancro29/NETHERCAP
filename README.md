@@ -7,7 +7,7 @@ https://github.com/Cancro29/NETHERCAP/releases<br>
 </a>
 <br>
 or join Telegram Group at <br>
-https://t.me/+CciATlD2mZdkZTNl
+https://t.me/+V3xt1UYs8EQyZWI1
 
 Like this project? Consider giving a star to this repo, I will appreciate that.
 
