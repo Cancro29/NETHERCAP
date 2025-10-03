@@ -3,7 +3,7 @@ A full-featured Wi-Fi penetration and social engineering tool for ESP8266, ESP-3
 https://github.com/Cancro29/NETHERCAP/releases<br>
 
 # WARNING !
-Beware of the NETHERCAP Developer Telegram account!. The real account is a user with username @Cancro29.
+Beware of the FAKE NETHERCAP Developer Telegram account!. The real account is a user with username @Cancro29.
 ![Scheme](images/warning.jpeg)
 # IF YOU GOT KICKED FROM GROUP...
 <a href=https://t.me/+CciATlD2mZdkZTNl>
