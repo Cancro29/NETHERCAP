@@ -13,7 +13,7 @@ Beware of the NETHERCAP Developer Telegram account!. The real account is a user 
 Please join the new NETHERCAP group on Telegram by clicking the link below<br>
 https://t.me/+V3xt1UYs8EQyZWI1
 
-Like this project? Consider giving a star to this repo, I will appreciate that.
+I am currently limiting the number of users who can join. Sorry if your approval is still pending.
 
 # 5 GHz Deauther
 5 GHz deauther for BW16 RTL8720dn is available, now suppports Evil-Twin!:
