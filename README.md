@@ -18,11 +18,11 @@ If you are from Indonesia and your approval is still pending, contact me at http
 
 # 5 GHz Deauther
 5 GHz deauther for BW16 RTL8720dn is available, now suppports Evil-Twin!:
-https://github.com/Cancro29/NETHERCAP/releases/tag/V.1.9.0-bw16
+https://github.com/Cancro29/NETHERCAP/releases/tag/V.2.0.0-bw16
 
 # Download
 ## ESP8266
-https://github.com/Cancro29/NETHERCAP/releases/tag/V.3.8.1-esp8266
+https://github.com/Cancro29/NETHERCAP/releases/tag/V.3.9.0-esp8266
 
 ## About this Project
 This firmware is a heavily-modified version of M1z23R's ESP8266-EvilTwin v2 with Spacehuhn's Deauther CSS.
