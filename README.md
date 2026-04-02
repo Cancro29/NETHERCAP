@@ -9,14 +9,16 @@ https://github.com/Cancro29/NETHERCAP/releases<br>
 Please join the new NETHERCAP group on Telegram by clicking the link below<br>
 https://t.me/+V3xt1UYs8EQyZWI1
 <br>
+For now, the group can only be joined by users coming from Indonesia. Sorry if your approval is not approved.<br>
+If you are from Indonesia and your approval is still pending, contact me at https://t.me/Cancro29. 
+<br>
 <a href=https://www.youtube.com/channel/UCpObidygxjgvrhPlzF5-YTg>
     <img src="images/Youtube_logo.png" alt="Scheme" width="200"/>
 </a>
 <br>
 Youtube : https://www.youtube.com/channel/UCpObidygxjgvrhPlzF5-YTg
+<br>
 
-For now, the group can only be joined by users coming from Indonesia. Sorry if your approval is not approved.<br>
-If you are from Indonesia and your approval is still pending, contact me at https://t.me/Cancro29. 
 
 # 5 GHz Deauther
 5 GHz deauther for BW16 RTL8720dn is available, now suppports Evil-Twin!:
