@@ -22,11 +22,11 @@ Youtube : https://www.youtube.com/channel/UCpObidygxjgvrhPlzF5-YTg
 
 # 5 GHz Deauther
 5 GHz deauther for BW16 RTL8720dn is available, now suppports Evil-Twin!:
-https://github.com/Cancro29/NETHERCAP/releases/tag/V.2.0.0-bw16
+https://github.com/Cancro29/NETHERCAP/releases/tag/V.2.2.0-bw16
 
 # Download
 ## ESP8266
-https://github.com/Cancro29/NETHERCAP/releases/tag/V.3.9.0-esp8266
+https://github.com/Cancro29/NETHERCAP/releases/tag/V.4.0.0-esp8266
 
 ## About this Project
 This firmware is a heavily-modified version of M1z23R's ESP8266-EvilTwin v2 with Spacehuhn's Deauther CSS.
@@ -37,6 +37,5 @@ The default password for "NETHERCAP" is "deauther".
 ## Pin and Control Scheme
 ![Scheme](images/Quickguide.jpg)
 ![Scheme](images/Quickguide2.jpg)
-## Features
-![Scheme](images/features_table.jpg)
+
 .
