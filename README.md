@@ -13,6 +13,8 @@ Beware of the FAKE NETHERCAP Developer Telegram account!. The real account is a 
 Please join the new NETHERCAP group on Telegram by clicking the link below<br>
 https://t.me/+V3xt1UYs8EQyZWI1
 
+Youtube : https://www.youtube.com/channel/UCpObidygxjgvrhPlzF5-YTg
+
 For now, the group can only be joined by users coming from Indonesia. Sorry if your approval is not approved.<br>
 If you are from Indonesia and your approval is still pending, contact me at https://t.me/Cancro29. 
 
