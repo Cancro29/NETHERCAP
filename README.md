@@ -11,7 +11,7 @@ https://t.me/+V3xt1UYs8EQyZWI1
 <br>
 For now, the group can only be joined by users coming from Indonesia. Sorry if your approval is not approved.<br>
 If you are from Indonesia and your approval is still pending, contact me at https://t.me/Cancro29. 
-<br>
+<br><br>
 <a href=https://www.youtube.com/channel/UCpObidygxjgvrhPlzF5-YTg>
     <img src="images/Youtube_logo.png" alt="Scheme" width="200"/>
 </a>
