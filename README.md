@@ -19,6 +19,14 @@ If you are from Indonesia and your approval is still pending, contact me at http
 Youtube : https://www.youtube.com/channel/UCpObidygxjgvrhPlzF5-YTg
 <br>
 
+<br>
+<a href=https://wa.me/6289679379527>
+    <img src="images/icon_whatsapp.png" alt="Scheme" width="200"/>
+</a>
+<br>
+Whatsapp : +6289679379527
+<br>
+
 
 # 5 GHz Deauther
 5 GHz deauther for BW16 RTL8720dn is available, now suppports Evil-Twin!:
