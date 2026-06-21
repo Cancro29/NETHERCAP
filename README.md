@@ -2,12 +2,12 @@
 A full-featured Wi-Fi penetration and social engineering tool for ESP8266, ESP-32 and BW16 (RTL8720dn). Go to release page for downloads<br>
 https://github.com/Cancro29/NETHERCAP/releases<br>
 
-<a href=https://t.me/+CciATlD2mZdkZTNl>
+<a href=https://t.me/NETHERCAPDEV_assist_bot>
     <img src="images/icon_telegram.jpg" alt="Scheme" width="200"/>
 </a>
 <br>
 Please join the new NETHERCAP group on Telegram by clicking the link below<br>
-https://t.me/+V3xt1UYs8EQyZWI1
+https://t.me/NETHERCAPDEV_assist_bot
 <br>
 For now, the group can only be joined by users coming from Indonesia. Sorry if your approval is not approved.<br>
 If you are from Indonesia and your approval is still pending, contact me at https://t.me/Cancro29. 
